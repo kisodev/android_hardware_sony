@@ -34,6 +34,29 @@
       "parentUuid": "6720a6f7_887e6af2",
       "revId": "a68dd8ff6f13ab927d13a7243b96d9d763b310d3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b0796812_4d8f9617",
+        "filename": "sepolicy/qti/vendor/vendor_hal_disp.te",
+        "patchSetId": 21
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 14962
+      },
+      "writtenOn": "2024-04-17T07:04:34Z",
+      "side": 1,
+      "message": "These two lines cause ERROR \u0027Duplicate declaration of type\u0027 and should be removed.\nIt is unclear why this error did not occur in Patchset 20.",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 59
+      },
+      "revId": "a68dd8ff6f13ab927d13a7243b96d9d763b310d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
