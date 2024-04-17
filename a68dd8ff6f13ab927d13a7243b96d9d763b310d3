@@ -57,6 +57,30 @@
       },
       "revId": "a68dd8ff6f13ab927d13a7243b96d9d763b310d3",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5033f649_240e895e",
+        "filename": "sepolicy/qti/vendor/vendor_hal_disp.te",
+        "patchSetId": 21
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2024-04-17T07:07:52Z",
+      "side": 1,
+      "message": "it seems that I just copied them for no reason.",
+      "parentUuid": "b0796812_4d8f9617",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 2,
+        "endChar": 59
+      },
+      "revId": "a68dd8ff6f13ab927d13a7243b96d9d763b310d3",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
